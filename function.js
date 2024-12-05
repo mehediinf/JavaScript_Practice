@@ -27,6 +27,7 @@ function myFunction(fullName, age, dateOfBirth = 2002) {
   }
   document.getElementById('btn').addEventListener('click', isSubscribed);
   
+  
   /* ====================================
   ? Automatic (Self-Invoked) Invocation
   * Executes immediately after being defined.

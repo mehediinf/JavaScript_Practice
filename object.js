@@ -1,5 +1,3 @@
-// JavaScript Objects
-
 /*
  * Object Literal
  * If you create a JavaScript Object using literals then its not a Singleton
