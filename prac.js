@@ -6,4 +6,4 @@ document.write(45+20);
 console.warn("It is a Wrong !");
 
 
-document.write("Hi, I am Rizwan");
+document.write("Hi, I am Mehedi");
