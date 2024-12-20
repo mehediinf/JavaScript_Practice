@@ -7,3 +7,7 @@ console.warn("It is a Wrong !");
 
 document.write("Hi, I am Mehedi");
 document.write("Hi, I am Mehedi");
+
+document.write("Allah borosah");
+
+

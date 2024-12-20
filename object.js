@@ -101,3 +101,18 @@ person2.greet = function () {
 
 console.log(person1);
 console.log(person2.greet());
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
