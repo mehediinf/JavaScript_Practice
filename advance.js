@@ -1,1 +1,0 @@
-document.write("Ki hobe amar ... ")
