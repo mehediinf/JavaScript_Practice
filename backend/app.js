@@ -17,7 +17,7 @@ app.get("/products", (req, res) => {
 
 const product = [
 
-   {
+  {
     id: 1,
     name: "Mehedi",
     phone: "01700000000",
